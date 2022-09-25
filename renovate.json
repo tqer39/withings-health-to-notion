@@ -39,9 +39,11 @@
       }
     },
     {
-      "matchPackageNames": ["python"],
       "allowedVersions": "<3.10",
-      "automerge": false
+      "automerge": false,
+      "matchPackageNames": [
+        "python"
+      ]
     }
   ],
   "prHourlyLimit": 0,
