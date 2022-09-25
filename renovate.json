@@ -37,6 +37,11 @@
       "minor": {
         "automerge": false
       }
+    },
+    {
+      "matchPackageNames": ["python"],
+      "allowedVersions": "<3.10",
+      "automerge": false
     }
   ],
   "prHourlyLimit": 0,
