@@ -51,6 +51,7 @@
     "Organiztions",
     "psub",
     "pyenv",
+    "pylance",
     "reviewdog",
     "rinchsan",
     "shellcheck",
@@ -67,6 +68,7 @@
     "toset",
     "tqer",
     "unversioned",
-    "usecases"
+    "usecases",
+    "withings"
   ]
 }
