@@ -37,8 +37,21 @@
       "minor": {
         "automerge": false
       }
+    },
+    {
+      "allowedVersions": "<3.10",
+      "automerge": false,
+      "matchPackageNames": [
+        "python"
+      ]
     }
   ],
+  "pin": {
+    "automerge": false
+  },
+  "pinDigest": {
+    "automerge": false
+  },
   "prHourlyLimit": 0,
   "timezone": "Asia/Tokyo"
 }
