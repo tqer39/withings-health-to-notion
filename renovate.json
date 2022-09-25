@@ -46,6 +46,12 @@
       ]
     }
   ],
+  "pin": {
+    "automerge": false
+  },
+  "pinDigest": {
+    "automerge": false
+  },
   "prHourlyLimit": 0,
   "timezone": "Asia/Tokyo"
 }
